@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm **Deri Nugroho (@Deri-Nugroho)**, a passionate DevOps & Cloud enthusiast who loves to build, explore, and innovate with code. 🚀
+I'm **Deri Nugroho**, a passionate DevOps & Cloud enthusiast who loves to build, explore, and innovate with code. 🚀
 
 ## 🔧 Tech Stack & Tools:
 - **Languages:** HTML, JavaScript, YAML  
@@ -27,7 +27,7 @@ I'm **Deri Nugroho (@Deri-Nugroho)**, a passionate DevOps & Cloud enthusiast who
 - 🔭 I’m a **Cloud Enthusiast**  
 - 🌱 Currently learning **DevOps** and CI/CD pipelines  
 - 🚀 Passionate about Open Source, Web Development, and Cloud Computing  
-- 🤝 Active in **CLOUD TROOPS (IT Club)** and **Kelas Prestasi TJKT @ SMKN 1 Banyumas**
+- 🤝 Active in **CLOUD TROOPS (IT Club)** and **Kelas Prestasi TJKT SMKN 1 Banyumas**
 
 ## 🏆 Achievements:
 - Google Cloud Arcade Program Participant  
@@ -37,6 +37,8 @@ I'm **Deri Nugroho (@Deri-Nugroho)**, a passionate DevOps & Cloud enthusiast who
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/coder_tech.id/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deri-nugroho/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Deri-Nugroho)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@derinugrohoo)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6DHk7G3R3pFzISbh0P)
+[![S.id](https://img.shields.io/badge/S.id-blue?style=for-the-badge&logo=sellfy)](https://s.id/derinug)
 
 💡 *"Code. Build. Innovate. Share."*
