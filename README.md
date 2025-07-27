@@ -35,9 +35,8 @@ I'm **Deri Nugroho**, a passionate DevOps & Cloud enthusiast who loves to build,
 
 ### 🌍 Connect with Me:
 [![S.id](https://img.shields.io/badge/S.id-blue?style=for-the-badge&logo=sellfy)](https://s.id/derinug)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deri-nugroho/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@derinugrohoo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deri-nugroho/)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/coder_tech.id/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6DHk7G3R3pFzISbh0P)
 
 💡 *"Code. Build. Innovate. Share."*
