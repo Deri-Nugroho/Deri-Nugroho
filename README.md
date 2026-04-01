@@ -1,42 +1,77 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 👋 I'm Deri Nugroho
 
-<!--
-**Deri-Nugroho/Deri-Nugroho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cloud & DevOps Enthusiast** | Building scalable systems, automation, and infrastructure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm **Deri Nugroho**, a passionate DevOps & Cloud enthusiast who loves to build, explore, and innovate with code. 🚀
+## 🔧 Tech Stack & Tools
 
-## 🔧 Tech Stack & Tools:
-- **Languages:** HTML, JavaScript, YAML  
-- **Frameworks & Libraries:** Node.js  
-- **Cloud & DevOps:** AWS, Docker, CI/CD, GitHub Actions  
-- **Databases:** MySQL  
-- **Focus:** Backend Development & Infrastructure Automation  
+**Cloud & Infrastructure**
+- AWS (EC2, S3, RDS, IAM, VPC)
+- Private Cloud: Proxmox, OpenStack (Exploration)
 
-## 📌 About Me:
-- 🔭 I’m a **Cloud Enthusiast**  
-- 🌱 Currently learning **DevOps** and CI/CD pipelines  
-- 🚀 Passionate about Open Source, Web Development, and Cloud Computing  
-- 🤝 Active in **CLOUD TROOPS (IT Club)** and **Kelas Prestasi TJKT SMKN 1 Banyumas**
+**DevOps & Automation**
+- Docker, Ansible
+- CI/CD (GitHub Actions)
 
-## 🏆 Achievements:
-- Google Cloud Arcade Program Participant  
-- JHIC (Jagoan Hosting Infra Competition) Participant  
+**Infrastructure as Code**
+- Terraform, CloudFormation
 
-### 🌍 Connect with Me:
+**System & Programming**
+- Linux (Bash), Python
+- JavaScript, YAML
+
+---
+
+## 📌 What I Do
+
+- Build and deploy cloud-based systems using AWS
+- Automate workflows using CI/CD pipelines
+- Manage infrastructure using Infrastructure as Code
+- Explore private cloud environments through homelab (Proxmox & OpenStack)
+
+---
+
+## 🚀 Highlight Projects
+
+- **AWS PrivateLink Implementation**  
+  Solved overlapping CIDR issue in multi-VPC architecture using PrivateLink
+
+- **CI/CD Pipeline Automation**  
+  Automated build & deployment using GitHub Actions
+
+- **TapIn - IoT Attendance System**  
+  End-to-end IoT system with RFID, backend server, and containerized deployment on Proxmox
+
+---
+
+## 🌐 Community & Learning
+
+- Community Contributor — Dicoding Cloud Community
+- Community Contributor — Debug Life Indonesia
+- Contributor — Sahabat Ubuntu Indonesia
+
+---
+
+## 🎯 Current Focus
+
+- DevOps & Infrastructure Automation
+- Private Cloud & Virtualization
+- Building production-ready cloud systems
+
+---
+
+## 
+
+- LinkedIn: https://linkedin.com/in/deri-nugroho
+- GitHub: https://github.com/Deri-Nugroho
+
+---
+
+### 📫 Connect with Me
 [![S.id](https://img.shields.io/badge/S.id-blue?style=for-the-badge&logo=sellfy)](https://s.id/derinug)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@derinugrohoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deri-nugroho/)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/coder_tech.id/)
 
-💡 *"Code. Build. Innovate. Share."*
+💡 *"Build systems, not just code."*
